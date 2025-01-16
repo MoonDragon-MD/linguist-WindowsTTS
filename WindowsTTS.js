@@ -34,7 +34,7 @@ class WindowsTTS {
     }
 
     static getSupportedLanguages() {
-        return ['en', 'it']; // Supported languages u200bu200bmay vary depending on your Windows TTS configuration
+        return ['en', 'it']; // Supported languages depending on your Windows TTS configuration
     }
 }
 
