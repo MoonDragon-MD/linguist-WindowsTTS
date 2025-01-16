@@ -7,6 +7,7 @@ Add to the "linguist" extension in "Custom TTS Modules" to have native Windows o
 
 ## Change the add on settings
 Go to the "Custom TTS Modules" section > Manage Modules > Add and copy the contents of my js
+
 If you are Italian change the entry with "Microsoft Cosimo"
 
 ## Advice
