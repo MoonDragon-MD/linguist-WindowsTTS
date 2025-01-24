@@ -1,6 +1,8 @@
 # linguist-WindowsTTS
 Add to the "linguist" extension in "Custom TTS Modules" to have native Windows offline TTS
 
+NB:It works well (without modification) even on Ubuntu, use espeak (unfortunately it sounds a robotic voice)
+
 ## Dependencies
 
 [linguist](https://github.com/translate-tools/linguist) 
